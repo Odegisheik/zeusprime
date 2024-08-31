@@ -1,0 +1,1603 @@
+{
+    "manifest_version": "1.0.17",
+    "title": "Bello - Real Estate Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Property List",
+            "screenshot": "screenshots\/property-list.jpg",
+            "source": "templates\/property-list.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/property-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Property",
+            "screenshot": "screenshots\/single-property.jpg",
+            "source": "templates\/single-property.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/single-property\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Single",
+            "screenshot": "screenshots\/team-single.jpg",
+            "source": "templates\/team-single.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/team-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage-03",
+            "screenshot": "screenshots\/homepage-03.jpg",
+            "source": "templates\/homepage-03.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/homepage-03\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage-02",
+            "screenshot": "screenshots\/homepage-02.jpg",
+            "source": "templates\/homepage-02.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/homepage-02\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage-01",
+            "screenshot": "screenshots\/homepage-01.jpg",
+            "source": "templates\/homepage-01.json",
+            "preview_url": "https:\/\/demo.balikucreative.com\/bello\/template-kit\/homepage-01\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.3",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.0.11",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.3.7",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bello-01-4.png",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/bello-01-4.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 4354,
+            "dimensions": [
+                300,
+                140
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/bello-01-4.png"
+        },
+        {
+            "filename": "sunrise-in-dallas_t20_AeEx9W.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/sunrise-in-dallas_t20_AeEx9W-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 170199,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/fbfb6d3f-05e1-4f24-958f-30556ccf9147\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "new-york-city-skyline_t20_LA9oEn.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/new-york-city-skyline_t20_LA9oEn-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 176631,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/a138108d-a5c4-4fd0-a583-9e918a72e330\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "cityscapes_t20_RljlkQ.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/cityscapes_t20_RljlkQ-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 291502,
+            "dimensions": [
+                1920,
+                1439
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_RljlkQ\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "PQyQeN_t20_pYwYke.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/PQyQeN_t20_pYwYke-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 274689,
+            "dimensions": [
+                1920,
+                1277
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_pYwYke\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "dallas-texas_t20_rO80EX.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/dallas-texas_t20_rO80EX-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 290540,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_rO80EX\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "sunset-nyc-nominated_t20_noJvlO.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/sunset-nyc-nominated_t20_noJvlO-600x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 269652,
+            "dimensions": [
+                1440,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_noJvlO\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "red-white-minimal_t20_JYVERw.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/red-white-minimal_t20_JYVERw-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 93112,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_JYVERw\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "brainstorming-team-in-office_t20_EOY9pY.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/brainstorming-team-in-office_t20_EOY9pY-600x428.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 155790,
+            "dimensions": [
+                1920,
+                1370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_EOY9pY\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "men-happiness-smiling-young-man-smile-man-joke-happy-laugh-laughing-smiling-face_t20_EnEZXV.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/men-happiness-smiling-young-man-smile-man-joke-happy-laugh-laughing-smiling-face_t20_EnEZXV-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 102582,
+            "dimensions": [
+                1920,
+                1272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_EnEZXV\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "young-business-woman-sitting-at-table-in-cafe-and-writing-in-notebook-student-computer-freelancer_t20_pRBl2d.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/young-business-woman-sitting-at-table-in-cafe-and-writing-in-notebook-student-computer-freelancer_t20_pRBl2d-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 128382,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_pRBl2d\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "zg5AyL_t20_ooJ7N8.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/zg5AyL_t20_ooJ7N8-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 215043,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_ooJ7N8\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "twenty20_92953900-69fb-4c95-9ea5-42d2688fab91.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/twenty20_92953900-69fb-4c95-9ea5-42d2688fab91-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 211154,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/92953900-69fb-4c95-9ea5-42d2688fab91\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "happy_t20_wa9Jmm.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/happy_t20_wa9Jmm-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 109336,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_wa9Jmm\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "portrait-joy-smiling-young-man-man-man-happy-attractive-laughing-excited-clean-cut-winter-portrait_t20_K6WLgV.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/portrait-joy-smiling-young-man-man-man-happy-attractive-laughing-excited-clean-cut-winter-portrait_t20_K6WLgV-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 111789,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_K6WLgV\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "home-interior-interior-winter-season-estate-house-interior-interior-design-wintertime-real-estate_t20_LzW3Kz.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/home-interior-interior-winter-season-estate-house-interior-interior-design-wintertime-real-estate_t20_LzW3Kz-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 111502,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_LzW3Kz\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "mirror-room-makeup_t20_8lJQPa.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/mirror-room-makeup_t20_8lJQPa-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 206525,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_8lJQPa\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "ggs_t20_V7lLVl.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/ggs_t20_V7lLVl-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 124121,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_V7lLVl\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "city-architecture-cityscape-cityscape-skyline-skyscraper-san-francisco-city-view-sf_t20_YQd6R4.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/city-architecture-cityscape-cityscape-skyline-skyscraper-san-francisco-city-view-sf_t20_YQd6R4-600x797.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 245679,
+            "dimensions": [
+                1445,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_YQd6R4\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "urban-architecture-skyscapers_t20_2J1OaP.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/urban-architecture-skyscapers_t20_2J1OaP-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 220336,
+            "dimensions": [
+                1920,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_2J1OaP\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "seattle-public-library-architecture-downtown_t20_1J6WAv.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/seattle-public-library-architecture-downtown_t20_1J6WAv-600x399.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 376385,
+            "dimensions": [
+                1920,
+                1276
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_1J6WAv\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "chicago_t20_EP2kr4.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/chicago_t20_EP2kr4-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/property-list.json",
+                    "name": "Property List"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 296467,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_EP2kr4\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "stairs-on-minimalistic-brick-wall-background_t20_YQ0pZj.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/stairs-on-minimalistic-brick-wall-background_t20_YQ0pZj-600x789.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 178843,
+            "dimensions": [
+                1461,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_YQ0pZj\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "domestic-cat-home-books-cats-at-home-home-decor_t20_lRZ3r2.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/domestic-cat-home-books-cats-at-home-home-decor_t20_lRZ3r2-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 164055,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_lRZ3r2\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "home-interior-interior-interiors-house-interior-interior-design-modern-interior-design_t20_1bEP01.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/home-interior-interior-interiors-house-interior-interior-design-modern-interior-design_t20_1bEP01-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 50857,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_1bEP01\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "stylish-sitting_t20_XzPVr6.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/stylish-sitting_t20_XzPVr6-600x680.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 184200,
+            "dimensions": [
+                1694,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_XzPVr6\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "home-interior-cactus-interior-succulent-succulent-plant-estate-cactuses-interior-design-real-estate_t20_Gg2Loo.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/home-interior-cactus-interior-succulent-succulent-plant-estate-cactuses-interior-design-real-estate_t20_Gg2Loo-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 88085,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_Gg2Loo\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "LOGOIPSUM-01.png",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-01.png",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 2731,
+            "dimensions": [
+                500,
+                234
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-01.png"
+        },
+        {
+            "filename": "LOGOIPSUM-02.png",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-02.png",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 7252,
+            "dimensions": [
+                1067,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-02.png"
+        },
+        {
+            "filename": "LOGOIPSUM-03.png",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-03.png",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 4940,
+            "dimensions": [
+                1067,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-03.png"
+        },
+        {
+            "filename": "LOGOIPSUM-04.png",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-04.png",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 6515,
+            "dimensions": [
+                1067,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-04.png"
+        },
+        {
+            "filename": "LOGOIPSUM-05.png",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-05.png",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 6343,
+            "dimensions": [
+                1067,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-05.png"
+        },
+        {
+            "filename": "LOGOIPSUM-06.png",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-06.png",
+            "templates": [
+                {
+                    "source": "templates\/single-property.json",
+                    "name": "Single Property"
+                },
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                },
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                },
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 6928,
+            "dimensions": [
+                1067,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/04\/LOGOIPSUM-06.png"
+        },
+        {
+            "filename": "attractive-business-woman-having-fun-while-working_t20_WxLZP1.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/attractive-business-woman-having-fun-while-working_t20_WxLZP1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                }
+            ],
+            "filesize": 140767,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_WxLZP1\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "t20_mopzPr.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/t20_mopzPr-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-single.json",
+                    "name": "Team Single"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage-03.json",
+                    "name": "Homepage-03"
+                }
+            ],
+            "filesize": 145816,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/708fc6d4-d3f5-4523-bd56-cb5ab6c82e05\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "home_t20_LOdr0n.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/home_t20_LOdr0n-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 105988,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_LOdr0n\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "twenty20_385432a8-ca28-4a30-888b-a1907631bd52.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/twenty20_385432a8-ca28-4a30-888b-a1907631bd52-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-02.json",
+                    "name": "Homepage-02"
+                }
+            ],
+            "filesize": 159281,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/385432a8-ca28-4a30-888b-a1907631bd52\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "a-gem-from-my-trip-to-new-york-this-past-july_t20_6yKPEo.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/a-gem-from-my-trip-to-new-york-this-past-july_t20_6yKPEo-600x398.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 330362,
+            "dimensions": [
+                1920,
+                1272
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_6yKPEo\/?utm_t20_channel=bl"
+        },
+        {
+            "filename": "young-curly-woman-in-total-yellow-look-portrait-of-beautiful-mixed-race-girl-on-studio-background_t20_2WGkE8.jpg",
+            "thumbnail_url": "https:\/\/demo.balikucreative.com\/bello\/wp-content\/uploads\/2020\/12\/young-curly-woman-in-total-yellow-look-portrait-of-beautiful-mixed-race-girl-on-studio-background_t20_2WGkE8-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-01.json",
+                    "name": "Homepage-01"
+                }
+            ],
+            "filesize": 137179,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/www.twenty20.com\/photos\/t20_2WGkE8\/?utm_t20_channel=bl"
+        }
+    ]
+}
